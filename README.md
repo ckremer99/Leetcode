@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/ckremer99/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ckremer99/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ckremer99/Leetcode/tree/master/0055-jump-game) |
 | [0792-binary-search](https://github.com/ckremer99/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ckremer99/Leetcode/tree/master/0816-design-hashset) |
 ## Binary Search
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ckremer99/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ckremer99/Leetcode/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ckremer99/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ckremer99/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
